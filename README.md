@@ -2,7 +2,7 @@
 1. Добавление раздела [[йоу]]
 2. Добавлние картинки персонажа <img src="https://github.com/sigmno/twine/blob/main/kandinsky-download-1761046070300-no-bg-preview%20(carve.photos).png?raw=true">
 ```
-<img src="[https://github.com/sigmno/twine/blob/main/ya.jpg?raw=true](https://github.com/sigmno/twine/blob/main/ya.jpg?raw=true)">
+<img src="https://github.com/sigmno/twine/blob/main/ya.jpg?raw=true">
 ```
 3.Добавление фона
 ```
